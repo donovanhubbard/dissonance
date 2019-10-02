@@ -1,6 +1,4 @@
 //TODO
-//Setup github
-//exeternalize connection stuff
 //add mocha?
 
 const client = require('./client.js');
